@@ -1,0 +1,10 @@
+{
+  "description": "Explore a cinematic AI platform landing page that showcases advanced research, creation, and analysis tools through an immersive scroll-driven experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
